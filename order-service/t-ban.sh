@@ -12,13 +12,13 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m                Security Help For Ethical Hackers... "
+echo -e $lightgreen "\e[1m                اخلاقی ہیکروں کے لئے سلامتی میں مدد... "
 echo " "
-echo -e $yellow "\e[1m                         -Sutariya Parixit "
+echo -e $yellow "\e[1m                         -الطاف حسین شاہانی "
 echo " "
 echo " "
 echo " "
-echo -e "\e[1m\e[33m\nWhat is Your \e[31mBanner \e[33mName\e[32m :\n\n"
+echo -e "\e[1m\e[33m\n   تم کیا ہو \e[31mبینر \e[33mنام\e[32m :\n\n"
 read varbanner
 echo
 echo -e "\e[1m\e[33m\nWhat is Your Cowsay Name\e[32m :\n\n "
